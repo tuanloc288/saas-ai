@@ -25,9 +25,10 @@ import { usePreModal } from "@/hooks/Use-pre-modal"
 // just replace messsages.map to testImg.map 
 // and messages.length === 0 to testImg.length === 0  
 const testImg = [
-  "https://res.cloudinary.com/dbiliw2ja/image/upload/v1689002026/crc38uyjuuvxnshobbvl.jpg",
+  "https://res.cloudinary.com/dbiliw2ja/image/upload/v1689919078/snowMnt2_mkycow.webp",
   "https://res.cloudinary.com/dbiliw2ja/image/upload/v1688891514/bpoa2zmdafilea0gpvjf.jpg",
-  "https://res.cloudinary.com/dbiliw2ja/image/upload/v1689002604/zrczhqexxclfxwtulhka.jpg"
+  "https://res.cloudinary.com/dbiliw2ja/image/upload/v1689919078/snowMnt_beyrvj.jpg",
+  "https://res.cloudinary.com/dbiliw2ja/image/upload/v1689919077/snowMnt1_gdq5ya.webp"
 ]
 
 const ImagePage = () => {
